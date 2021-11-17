@@ -1,0 +1,9 @@
+[submodule "obstacle-frontend"]
+	path = obstacle-frontend
+	url = https://github.com/MandiayeB/obstacle-frontend
+[submodule "obstacle-backend"]
+	path = obstacle-backend
+	url = https://github.com/MandiayeB/obstacle-backend
+[submodule "obstacle-extension"]
+	path = obstacle-extension
+	url = https://github.com/MandiayeB/obstacle-extension
